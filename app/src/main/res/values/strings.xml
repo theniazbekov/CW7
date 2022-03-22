@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CW7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="skip">skip</string>
+    <string name="hello">Hello bro!</string>
+    <string name="greeting">Hello buddy, thanks for downloading this app. I hope it will serve you well and will help you in the right situations. After reading the instructions, you can use this application. Good luck</string>
+</resources>
